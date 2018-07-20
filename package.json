@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/don/cordova-filechooser.git"
+    "url": "git+ssh://git@github.com/bmg-ruudv/cordova-filechooser.git"
   },
   "keywords": [
     "ecosystem:cordova",
